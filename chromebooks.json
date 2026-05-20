@@ -1,1 +1,20 @@
-
+[
+  {
+    "model": "Dell 3100",
+    "ram": "4GB",
+    "storage": "32GB",
+    "minecraftEducation": true,
+    "playStore": true,
+    "score": 85,
+    "rooms": ["204", "118"]
+  },
+  {
+    "model": "Lenovo N23",
+    "ram": "4GB",
+    "storage": "16GB",
+    "minecraftEducation": false,
+    "playStore": false,
+    "score": 20,
+    "rooms": ["110"]
+  }
+]
