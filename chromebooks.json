@@ -3,9 +3,9 @@
     "model": "Asus CR1104CTA",
     "ram": "4GB",
     "storage": "32GB",
-    "minecraftEducation": true,
-    "playStore": true,
-    "score": 65,
+    "minecraftEducation": false,
+    "playStore": false,
+    "score": 00,
     "rooms": ["104"]
   },
   {
