@@ -1,12 +1,12 @@
 [
   {
-    "model": "Dell 3100",
+    "model": "Asus CR1104CTA",
     "ram": "4GB",
     "storage": "32GB",
     "minecraftEducation": true,
     "playStore": true,
-    "score": 85,
-    "rooms": ["204", "118"]
+    "score": 65,
+    "rooms": ["104"]
   },
   {
     "model": "Lenovo N23",
