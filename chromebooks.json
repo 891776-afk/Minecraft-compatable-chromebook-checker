@@ -17,4 +17,13 @@
     "score": 20,
     "rooms": ["110"]
   }
+    {
+    "model": "Lenove N23",
+    "ram": "4GB",
+    "storage": "16GB",
+    "minecraftEducation": false,
+    "playStore": false,
+    "score": 20,
+    "rooms": ["110"]
+  }
 ]
