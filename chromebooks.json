@@ -1,7 +1,6 @@
 [
   {
     "model": "Asus CR1104CTA",
-    "room": "104",
     "ram": "4GB",
     "storage": "32GB",
     "minecraftEducation": false,
@@ -11,7 +10,6 @@
   },
   {
     "model": "Lenovo N23",
-    "room": "110",
     "ram": "4GB",
     "storage": "16GB",
     "minecraftEducation": false,
@@ -20,12 +18,11 @@
     "score": 20
   },
   {
-    "model": "Lenove N22",
-    "room": "110",
+    "model": "Asus C204M",
     "ram": "4GB",
-    "storage": "16GB",
+    "storage": "32GB",
     "minecraftEducation": false,
-    "playStore": false,
+    "playStore": true,
     "performance": "Poor",
     "score": 20
   }
