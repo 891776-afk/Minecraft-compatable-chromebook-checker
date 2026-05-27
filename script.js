@@ -18,12 +18,24 @@ function checkModel() {
   if (found) {
     result.innerHTML = `
       <h2>${found.model}</h2>
+
       <p>Room: ${found.room}</p>
+
       <p>RAM: ${found.ram}</p>
+
       <p>Storage: ${found.storage}</p>
+
       <p>Performance: ${found.performance}</p>
-      <p>Play Store: ${found.playStore ? "Supported" : "Not Supported"}</p>
-      <p>Minecraft Education:
+
+      <p>Compatibility Score: ${found.score}%</p>
+
+      <p>
+        Play Store:
+        ${found.playStore ? "Supported" : "Not Supported"}
+      </p>
+
+      <p>
+        Minecraft Education:
         ${found.minecraftEducation ? "✅ Works" : "❌ Doesn't Work"}
       </p>
     `;
